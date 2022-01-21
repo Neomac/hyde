@@ -10,3 +10,13 @@ title: What's Jekyll?
 It's an immensely useful tool and one we encourage you to use here with Hyde.
 
 Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/watch?v=JHNCUzKN-ik"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
